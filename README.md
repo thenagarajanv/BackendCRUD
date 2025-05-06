@@ -9,6 +9,6 @@ Using Express Js Backend Crud Projects
 
 `import express from "express"`
 
--> If you wanna use this then make package.json `types : module`
+-> Default package.json `types : commonjs`
 
--> If you wanna use this then make package.json `types : commonjs`
+-> If you wanna use this then make package.json `types : module`
